@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Cormorant+Garamond:wght@300&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font import link */
+
+@layer base {
+  /* global reset values */
+  
+}
+
+@layer components {
+  /* reuseable components */
+ 
+}
+
+@layer utilities {
+}
